@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42733208976",
+    "project_id": "energy-consumption-a-i-f5wkvs",
+    "storage_bucket": "energy-consumption-a-i-f5wkvs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42733208976:android:f552e75ce96b3964a7df15",
+        "android_client_info": {
+          "package_name": "com.mycompany.energyconsumptionaimlapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8q_oH0gEw9wX4YkpGBuvz43DptuoAdEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
